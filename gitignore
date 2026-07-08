@@ -1,0 +1,17 @@
+# Trained models (large binary files - regenerate from notebooks instead)
+*.pkl
+*.h5
+*.keras
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# OS
+.DS_Store
+Thumbs.db
